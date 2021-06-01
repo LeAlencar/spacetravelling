@@ -31,6 +31,7 @@
     "prettier"
   ],
   "rules": {
+    "@typescript-eslint/explicit-module-boundary-types": "off",
     "camelcase": "off",
     "import/no-duplicates": "off",
     "react/jsx-props-no-spreading": "off",
@@ -75,7 +76,7 @@
       }
     ],
     "@typescript-eslint/explicit-function-return-type": [
-      "error",
+      "off",
       {
         "allowExpressions": true
       }
