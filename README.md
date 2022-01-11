@@ -1,6 +1,6 @@
 # Spacetravelling
 
-This is an application developed at RocketSeat Ignite Bootcamp. It's a blog using a Headless CMS (Prismic).
+This is an application developed at RocketSeat Ignite Bootcamp. It's a blog using a Headless CMS (Prismic). You can check it live here: [SpaceTravelling](https://spacetravelling-2dt5zs9td-lealencar.vercel.app/)
 
 Features:
 * Get posts from Prismic CMS API
